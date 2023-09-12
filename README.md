@@ -23,7 +23,7 @@ CMS Project is a Django-based Content Management System that allows administrato
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/yourusername/cms-project.git
+   git clone [https://github.com/yourusername/cms-project.git](https://github.com/nawaz-07/django-ContentManagentSyatem.git)
    cd cms-project
 
 2. Create and Activate a Virtual Environment:
