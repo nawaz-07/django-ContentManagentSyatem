@@ -1,4 +1,4 @@
-# django-ContentManagentSyatem
+# django-ContentManagentSystem
 
 # CMS Project
 
